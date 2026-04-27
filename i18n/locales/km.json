@@ -73,7 +73,8 @@
 
         "building": "អាគារ",
         "floor": "ជាន់",
-        "room_type": "ប្រភេទបន្ទប់"
+        "room_type": "ប្រភេទបន្ទប់",
+        "room": "បន្ទប់"
     },
     "columns": {
         "name": "ឈ្មោះ",
@@ -146,6 +147,11 @@
         "payment_history": "ប្រវត្តិបង់ប្រាក់",
         "billing_date": "ថ្ងៃទូទាត់",
         "billing_by": "ទូទាត់ដោយ",
-        "is_in_stock": "បានចូលស្តុក"
+        "is_in_stock": "បានចូលស្តុក",
+
+        "room_number": "លេខបន្ទប់",
+        "price": "តម្លៃ",
+        "item_length": "ចំនួនបន្ទប់",
+        "start_number": "ចាប់ផ្ដើមពី"
     }
 }

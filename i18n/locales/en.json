@@ -73,7 +73,8 @@
 
         "building": "Building",
         "floor": "Floor",
-        "room_type": "Room Type"
+        "room_type": "Room Type",
+        "room": "Room"
     },
     "columns": {
         "name": "Name",
@@ -146,6 +147,12 @@
         "payment_history": "Payment History",
         "billing_date": "Billing Date",
         "billing_by": "Billing By",
-        "is_in_stock": "Is In Stock"
+        "is_in_stock": "Is In Stock",
+
+
+        "room_number": "Room Number",
+        "price": "Price",
+        "item_length": "Item Length",
+        "start_number": "Start Number"
     }
 }
