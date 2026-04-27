@@ -69,7 +69,9 @@
         "saling": "Saling",
         "sale": "Product Saling",
         "sale_payment_receipt": "Sale Payment Receipt",
-        "purchase_receipt_billing": "Purchase Receipt Billing"
+        "purchase_receipt_billing": "Purchase Receipt Billing",
+
+        "building": "Building"
     },
     "columns": {
         "name": "Name",

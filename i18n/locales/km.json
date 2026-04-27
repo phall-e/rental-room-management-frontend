@@ -69,7 +69,9 @@
         "saling": "ការលក់",
         "sale": "លក់ទំនិញ",
         "sale_payment_receipt": "ទទួលប្រាក់ពីអតិថិជន",
-        "purchase_receipt_billing": "ទូទាត់ប្រាក់ទៅអ្នកផ្គត់ផ្គង់"
+        "purchase_receipt_billing": "ទូទាត់ប្រាក់ទៅអ្នកផ្គត់ផ្គង់",
+
+        "building": "អាគារ"
     },
     "columns": {
         "name": "ឈ្មោះ",
