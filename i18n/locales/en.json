@@ -72,7 +72,8 @@
         "purchase_receipt_billing": "Purchase Receipt Billing",
 
         "building": "Building",
-        "floor": "Floor"
+        "floor": "Floor",
+        "room_type": "Room Type"
     },
     "columns": {
         "name": "Name",

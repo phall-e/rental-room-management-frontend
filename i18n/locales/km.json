@@ -72,7 +72,8 @@
         "purchase_receipt_billing": "ទូទាត់ប្រាក់ទៅអ្នកផ្គត់ផ្គង់",
 
         "building": "អាគារ",
-        "floor": "ជាន់"
+        "floor": "ជាន់",
+        "room_type": "ប្រភេទបន្ទប់"
     },
     "columns": {
         "name": "ឈ្មោះ",

@@ -9,6 +9,13 @@
         >
             <AdminFloorPage/>
         </el-tab-pane>
+        <el-tab-pane
+            key="room-type"
+            :label="$t('menu.room_type')"
+            name="room-type"
+        >
+            <AdminRoomTypePage/>
+        </el-tab-pane>
     </el-tabs>
 </template>
 
