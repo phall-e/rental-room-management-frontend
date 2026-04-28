@@ -74,7 +74,8 @@
         "building": "Building",
         "floor": "Floor",
         "room_type": "Room Type",
-        "room": "Room"
+        "room": "Room",
+        "tenant": "Tenant"
     },
     "columns": {
         "name": "Name",
@@ -153,6 +154,10 @@
         "room_number": "Room Number",
         "price": "Price",
         "item_length": "Item Length",
-        "start_number": "Start Number"
+        "start_number": "Start Number",
+        "tenant_name": "Tenant Name",
+        "id_card_number": "ID Card Number",
+        "deposit_amount": "Deposit Amount",
+        "start_date": "Start Date"
     }
 }

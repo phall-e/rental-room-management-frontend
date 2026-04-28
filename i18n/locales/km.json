@@ -74,7 +74,8 @@
         "building": "អាគារ",
         "floor": "ជាន់",
         "room_type": "ប្រភេទបន្ទប់",
-        "room": "បន្ទប់"
+        "room": "បន្ទប់",
+        "tenant": "អ្នកជួលបន្ទប់"
     },
     "columns": {
         "name": "ឈ្មោះ",
@@ -152,6 +153,10 @@
         "room_number": "លេខបន្ទប់",
         "price": "តម្លៃ",
         "item_length": "ចំនួនបន្ទប់",
-        "start_number": "ចាប់ផ្ដើមពី"
+        "start_number": "ចាប់ផ្ដើមពី",
+        "tenant_name": "ឈ្មោះអ្នកជួល",
+        "id_card_number": "លេខអត្តសញ្ញាណប័ណ្ណ",
+        "deposit_amount": "លុយកក់",
+        "start_date": "ចាប់ផ្ដើមចូលនៅ"
     }
 }
