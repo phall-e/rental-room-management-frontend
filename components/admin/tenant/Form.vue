@@ -308,7 +308,7 @@ watch(
   ([roomId, roomsList]) => {
     if (!roomId || !roomsList.length) return;
 
-    const item = roomsList.find((r) => r.id === roomId);
+    const item = roomsList.find((r: any) => r.id === roomId);
     if (!item) return;
 
     formRef.floorId = item.floorId;
